@@ -1,7 +1,7 @@
 package getpixelcolor;
 /**
  *
- * @author labanyam
+ * @author Siemen Competitor 2017
  */
 import java.awt.Color;
 import java.awt.image.BufferedImage;
