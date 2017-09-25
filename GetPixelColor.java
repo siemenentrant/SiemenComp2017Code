@@ -22,10 +22,10 @@ public static void main(String args[]) throws IOException {
     	int total_pixels = 0;   
     	try {
         	//read image file      
-        	File file1 = new File("~Labanya/sc_proj_2017/Image_files/img_1743_right_time0.jpg"); 	            
+        	File file1 = new File("~Entrant_name/sc_proj_2017/Image_files/img_1743_right_time0.jpg"); 	            
         	BufferedImage image1 = ImageIO.read(file1);
         	//write file
-        	FileWriter fstream = new FileWriter("C:/Users/labanyam/output.txt");
+        	FileWriter fstream = new FileWriter("C:/Users/entrant_name/output.txt");
         	BufferedWriter out = new BufferedWriter(fstream);
         	//
         	//find red and green pixels
